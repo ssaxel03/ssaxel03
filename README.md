@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats-fork-eight.vercel.app/api?username=ssaxel03&hide_rank=true" style="max-height: 100px;"/>
 
-[![Top Langs](https://github-readme-stats-fork-eight.vercel.app/api/top-langs/?username=ssaxel03)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-fork-eight.vercel.app/api/top-langs/?username=ssaxel03"/>
 
 <img src="https://github-readme-stats-fork-eight.vercel.app/api/pin/?username=ssaxel03&repo=github-readme-stats-fork" />
 
