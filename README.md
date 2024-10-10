@@ -1,8 +1,12 @@
 [![MasterHead](https://res.cloudinary.com/dpjinfnkn/image/upload/v1728547460/pkzzmsxqbnf72kwrfzjp.png)](https://github.com/ssaxel03)
 
-[![Anurag's GitHub stats](https://github-readme-stats-fork-eight.vercel.app/api?username=ssaxel03)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-fork-eight.vercel.app/api?username=ssaxel03&hide_rank=true"/>
 
 [![Top Langs](https://github-readme-stats-fork-eight.vercel.app/api/top-langs/?username=ssaxel03)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats-fork-eight.vercel.app/api/pin/?username=ssaxel03&repo=github-readme-stats-fork)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
