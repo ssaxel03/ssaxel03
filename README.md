@@ -1,4 +1,10 @@
-## Hi there 👋
+[![MasterHead](https://res.cloudinary.com/dpjinfnkn/image/upload/v1728547460/pkzzmsxqbnf72kwrfzjp.png)](https://github.com/ssaxel03)
+
+[![Anurag's GitHub stats](https://github-readme-stats-fork-eight.vercel.app/api?username=ssaxel03)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-fork-eight.vercel.app/api/top-langs/?username=ssaxel03)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **ssaxel03/ssaxel03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
