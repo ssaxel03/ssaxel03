@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/dpjinfnkn/image/upload/v1728547460/pkzzmsxqbnf72kwrfzjp.png)](https://github.com/ssaxel03)
 
-<img src="https://github-readme-stats-fork-eight.vercel.app/api?username=macarigo&hide_rank=true"/>
+<img src="https://github-readme-stats-fork-eight.vercel.app/api?username=ssaxel03&hide_rank=true"/>
 
 <img src="https://github-readme-stats-fork-eight.vercel.app/api/top-langs/?username=macarigo"/>
 
