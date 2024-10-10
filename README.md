@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats-fork-eight.vercel.app/api/top-langs/?username=ssaxel03)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats-fork-eight.vercel.app/api/pin/?username=ssaxel03&repo=github-readme-stats-fork)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-fork-eight.vercel.app/api/pin/?username=ssaxel03&repo=github-readme-stats-fork" />
 
 
 
@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+  <img src="https://github-readme-stats-fork-eight.vercel.app/api/pin/?username=ssaxel03&repo=github-readme-stats-fork" />
+</p>
