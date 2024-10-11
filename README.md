@@ -24,7 +24,6 @@
 <h3 align="left">Stats</h3>
 <p align="center">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ssaxel03&show_icons=true&custom_title=Github+stats&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818" />
-  ‎
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssaxel03&show_icons=true&custom_title=Most+used+languages&layout=compact&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818" />
 </p>
 
@@ -33,15 +32,10 @@
   <a href="https://github.com/ssaxel03/my-exercises" target="_blank" style="display: inline-block; margin: 20px;">
     <img width=310 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=my-exercises&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818" style="margin: 20px;"/>
   </a>
-  ‎‎‎‎‎‎‎‎‎‎‎‎‎‎
   <a href="https://github.com/ssaxel03/platformer" target="_blank" style="display: inline-block; margin: 20px; width: 500px; height: 500px;">
     <img width=310 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=platformer&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818"/>
   </a>
-  ‎‎‎
   <a href="https://github.com/ssaxel03/pong" target="_blank" style="display: inline-block; margin: 20px;">
     <img width=310 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=pong&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818"/>
   </a>
 </p>
-
-
-
