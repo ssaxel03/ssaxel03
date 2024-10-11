@@ -1,6 +1,5 @@
 <!-- BANNER -->
-
-<img src="https://res.cloudinary.com/dpjinfnkn/image/upload/v1728654508/github-banner.png"/>
+<img src="https://res.cloudinary.com/dpjinfnkn/image/upload/v1728655294/dgyyput6n5wot1roicpp.png"/>
 
 <br>
 
