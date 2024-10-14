@@ -36,17 +36,15 @@
 
 # Repos
 <p align="center">
-  <a href="https://github.com/ssaxel03/my-exercises" target="_blank"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=my-exercises&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818" style="margin: 20px;"/></a>
+  <a href="https://github.com/ssaxel03/pong" target="_blank"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=pong&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818" style="margin: 20px;"/></a>
   &nbsp;
   <a href="https://github.com/ssaxel03/platformer" target="_blank"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=platformer&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818"/></a>
   &nbsp;
-  <a href="https://github.com/ssaxel03/pong" target="_blank"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=pong&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818"/></a>
-</p>
+  <a href="https://github.com/ssaxel03/my-exercises" target="_blank"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=my-exercises&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818"/></a>
 
-<p align="center">
-  <a href="https://github.com/ssaxel03/my-exercises" target="_blank"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=my-exercises&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818" style="margin: 20px;"/></a>
+  <a href="https://github.com/ssaxel03/bootcamp-gamejam" target="_blank"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=bootcamp-gamejam&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818" style="margin: 20px;"/></a>
   &nbsp;
-  <a href="https://github.com/ssaxel03/platformer" target="_blank"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=platformer&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818"/></a>
+  <a href="https://github.com/ssaxel03/top_down_magic_shooter" target="_blank"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=top_down_magic_shooter&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818"/></a>
   &nbsp;
-  <a href="https://github.com/ssaxel03/pong" target="_blank"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=pong&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818"/></a>
+  <a href="https://github.com/ssaxel03/rock_paper_scissors" target="_blank"><img width=270 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ssaxel03&repo=rock_paper_scissors&show_icons=true&description_lines_count=2&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818"/></a>
 </p>
