@@ -1,8 +1,5 @@
-<!-- BANNER -->
-<img src="https://res.cloudinary.com/dpjinfnkn/image/upload/v1728655294/dgyyput6n5wot1roicpp.png"/>
-
+<img src="https://res.cloudinary.com/dpjinfnkn/image/upload/v1731508170/Frame_1_lnbni4.gif">
 <br>
-
 
 # Tech Stack
 <p align="center">
