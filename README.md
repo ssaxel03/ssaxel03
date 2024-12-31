@@ -26,13 +26,16 @@
 
 # About me
 
-<p>
+<p align="justify">
   I am a full stack developer with valuable experience gained from working at MedicineOne and UNIT4. In these roles, I’ve developed a strong foundation in various programming languages, including C#, JavaScript and React. My professional journey has equipped me with the skills to tackle complex challenges and deliver efficient solutions in dynamic environments.
-
+</p>
+<p align="justify">
 Currently, I am furthering my education at Code for All, where I am deepening my technical expertise and knowledge. The hands-on learning approach has been instrumental in enhancing my problem-solving abilities, and I look forward to applying these skills in real-world scenarios. The course is pushing me to think critically and embrace new technologies such as Java and Git, preparing me for future challenges in the tech industry.
-
+</p>
+<p align="justify">
 In addition to my technical skills, I believe in the importance of effective communication and collaboration. I thrive in team settings and enjoy contributing to group projects, where diverse ideas lead to innovative solutions. I am dedicated to continuous learning and growth, always seeking opportunities to improve my craft.
-
+</p>
+<p align="justify">
 Outside of my professional life, I prioritize spending quality time with family and friends. Whether working on side projects or enjoying leisure activities, I find balance in my life that fuels my passion for technology. I aspire to be seen as a dependable individual, someone who can be entrusted with handling difficult situations and challenges with confidence.
 </p>
 
