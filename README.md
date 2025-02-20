@@ -25,7 +25,6 @@
 </p>
 
 # About me
-
 <p align="justify">
   I am a full stack developer with valuable experience gained from working at MedicineOne and UNIT4. In these roles, I’ve developed a strong foundation in various programming languages, including C#, JavaScript and React. My professional journey has equipped me with the skills to tackle complex challenges and deliver efficient solutions in dynamic environments.
 </p>
@@ -43,7 +42,7 @@ Outside of my professional life, I prioritize spending quality time with family 
 <p align="center">
     <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=ssaxel03&show_icons=true&custom_title=Github+stats&hide_border=true&hide=contribs&text_bold=false&hide_rank=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818" />
     &nbsp;
-    <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssaxel03&show_icons=true&custom_title=Most+used+languages&layout=compact&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818" />
+    <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssaxel03&hide=css,scss,html,shaderlab,hlsl&show_icons=true&custom_title=Most+used+languages&layout=compact&hide_border=true&title_color=ff7f21&icon_color=49b3bf&text_color=e2e9ec&bg_color=181818" />
 </p>
 
 # Repos
