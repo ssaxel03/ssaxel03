@@ -31,6 +31,7 @@
 - [Web Portfolio](https://github.com/ssaxel03/web-portfolio) - Launched Mar '25
 - [Sam](https://github.com/ssaxel03/sam) - Launched Dec '24
 - [Necro Nibbler](https://github.com/ssaxel03/bootcamp-gamejam) - Launched Oct '24
+- [Drawing Board](https://github.com/ssaxel03/drawing-board) - Launched Oct '24
 - [Platformer](https://github.com/ssaxel03/platformer) - Launched Aug '23
 - [Pong](https://github.com/ssaxel03/pong) - Launched Aug '23
 
