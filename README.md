@@ -12,6 +12,7 @@
 
 ## Featured projects
 - [Balaio ERP](https://github.com/ssaxel03/balaioconstrucao-erp) - Coming soon...
+- [GitHub Stats](https://github.com/ssaxel03/github-stats) - Launched Mar '25
 - [Web Portfolio](https://github.com/ssaxel03/web-portfolio) - Launched Mar '25
 - [Sam](https://github.com/ssaxel03/sam) - Launched Dec '24
 - [Necro Nibbler](https://github.com/ssaxel03/bootcamp-gamejam) - Launched Oct '24
