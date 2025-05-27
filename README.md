@@ -5,10 +5,9 @@
 ## About me
 - Software Developer
 - Based in Porto, Portugal
+- Working @ Blip
 - Worked @ Unit4, MedicineOne, ISPGaya
 - Studied @ Code for All_, Colégio de Gaia
-- Seeking software development roles
-- Available for freelance projects in both web & desktop app development
 
 ## Featured projects
 - [Balaio ERP](https://github.com/ssaxel03/balaioconstrucao-erp) - Coming soon...
@@ -37,7 +36,7 @@
 - Haskell
 
 ## Let's work together
-Feel free to reach out, I’m open to freelance work and exciting new opportunities.
+Feel free to reach out.
 - [LinkedIn](https://linkedin.com/in/axelsoares)
 - [Portfolio](https://ssaxel03.com)
 - [Email](mailto:ssaxel03@gmail.com)
