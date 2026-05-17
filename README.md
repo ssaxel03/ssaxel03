@@ -7,14 +7,16 @@
 # About me
 - Software Developer
 - Based in Porto, Portugal
-- Working @ Blip
-- Worked @ Unit4, MedicineOne, ISPGaya
+- Developing indie SaaS products
+- Worked @ Flutter Entertainment - Blip, Unit4, MedicineOne, ISPGaya
 - Studied @ Code for All_, Colégio de Gaia
 
 ----
 
 # Featured projects
-- Working on [Orb Storm](https://github.com/ssaxel03/orb-storm)
+- Developing a small life simulation game
+- Developing an indie SaaS product
+- Developing [Orb Storm](https://github.com/ssaxel03/orb-storm)
 - [GitHub Stats](https://github.com/ssaxel03/github-stats) - Launched Mar '25
 - [Web Portfolio](https://github.com/ssaxel03/web-portfolio) - Launched Mar '25
 - [Sam](https://github.com/ssaxel03/sam) - Launched Dec '24
@@ -28,9 +30,8 @@
 # Tech stack
 ## Core technologies
 - Java
-- Scala
-- Ruby
 - Typescript
+- React
 
 ## Currently learning
 - C++
