@@ -2,8 +2,6 @@
 
 # Hi, I'm Axel
 
-----
-
 # About me
 - Software Developer
 - Based in Porto, Portugal
